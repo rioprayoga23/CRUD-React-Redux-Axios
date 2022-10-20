@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "product 2sd",
+      "price": 30000
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 32000
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "price": 5000
+    },
+    {
+      "id": 5,
+      "title": "product 5",
+      "price": 9000
+    },
+    {
+      "title": "puma bagus",
+      "price": "9090",
+      "id": 6
+    }
+  ]
+}
